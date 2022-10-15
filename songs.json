@@ -1,0 +1,18 @@
+{
+    "s": [{
+
+            "song": "song1.mp3",
+
+            "name": "tumhiho.jpeg"
+        },
+        {
+
+            "song": "song2.mp3",
+            "name": "sun.jpeg"
+        },
+        {
+            "song": "song3.mp3",
+            "name": "adhuri.jpeg"
+        }
+    ]
+}
